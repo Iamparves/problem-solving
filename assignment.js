@@ -84,8 +84,3 @@ function megaFriend(friendsArray) {
 		return 'Please provide an array with miminum one value';
 	}
 }
-
-console.log(kilometerToMeter(40.5));
-console.log(budgetCalculator(10, 8, 2));
-console.log(hotelCost(23));
-console.log(megaFriend(["Sajjad Amin", "Rawnak Rafi", "Mahmudul Islam", "Mahmudul Hasan"]));
